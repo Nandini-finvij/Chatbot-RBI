@@ -5,7 +5,7 @@ import json
 
 URI = "bolt://localhost:7687"
 USER = "neo4j"
-PASSWORD = "Nandu_20_neo"
+PASSWORD = "..."
 
 driver = GraphDatabase.driver(URI, auth=(USER, PASSWORD))
 
@@ -51,4 +51,5 @@ def get_kg_facts(node_ids):
                 "label": row["label"]
             }
             for row in result
+
         ]
