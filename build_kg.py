@@ -8,7 +8,7 @@ import json
 
 URI = "bolt://localhost:7687"
 USER = "neo4j"
-PASSWORD = "Nandu_20_neo"
+PASSWORD = "..."
 
 driver = GraphDatabase.driver(URI, auth=(USER, PASSWORD))
 
@@ -72,3 +72,4 @@ if __name__ == "__main__":
     load_edges()
     verify()
     driver.close()
+
