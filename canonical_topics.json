@@ -1,0 +1,245 @@
+{
+  "DLG_Eligibility": {
+    "label": "DLG Eligibility",
+    "synonyms": [
+      "eligibility as dlg provider",
+      "dlg provider eligibility",
+      "who can provide dlg",
+      "fldg eligibility"
+    ]
+  },
+
+  "DLG_Cap": {
+    "label": "DLG Cap",
+    "synonyms": [
+      "cap on dlg",
+      "dlg cap limit",
+      "5% dlg cap",
+      "fldg cap",
+      "fldg cap for nbfcs",
+      "first loss default guarantee cap",
+      "maximum dlg percentage",
+      "dlg limit",
+      "fldg limit",
+      "default loss guarantee cap"
+    ]
+  },
+
+  "DLG_Forms": {
+    "label": "DLG Forms",
+    "synonyms": [
+      "forms of dlg",
+      "accepted dlg instruments"
+    ]
+  },
+
+  "DLG_Structure": {
+    "label": "DLG Structure",
+    "synonyms": [
+      "dlg contract structure",
+      "dlg invocation",
+      "dlg arrangement structure"
+    ]
+  },
+
+  "DLG_Restrictions": {
+    "label": "DLG Restrictions",
+    "synonyms": [
+      "restrictions on dlg",
+      "dlg cannot be used for",
+      "nbfc p2p restrictions"
+    ]
+  },
+
+  "DLG_Reporting": {
+    "label": "DLG Reporting",
+    "synonyms": [
+      "reporting of dlas",
+      "cims reporting"
+    ]
+  },
+
+  "Digital_Lending_Core": {
+    "label": "Digital Lending Core",
+    "synonyms": [
+      "digital lending guidelines",
+      "digital lending directions"
+    ]
+  },
+
+  "Digital_Lending_Definitions": {
+    "label": "Digital Lending Definitions",
+    "synonyms": [
+      "definitions in digital lending"
+    ]
+  },
+
+  "ECL_Overview": {
+    "label": "ECL Overview",
+    "synonyms": [
+      "expected credit loss introduction",
+      "ifrs 9 overview"
+    ]
+  },
+
+  "ECL_Stages": {
+    "label": "ECL Stages",
+    "synonyms": [
+      "stage 1 2 3",
+      "significant increase in credit risk"
+    ]
+  },
+
+  "ECL_Measurement": {
+    "label": "ECL Measurement",
+    "synonyms": [
+      "ecl measurement principles",
+      "probability weighted cashflows"
+    ]
+  },
+
+  "Gold_Loan_LTV": {
+    "label": "Gold Loan LTV",
+    "synonyms": [
+      "ltv for gold",
+      "gold loan ltv ratio"
+    ]
+  },
+
+  "Gold_Loan_Operational": {
+    "label": "Gold Loan Operational Requirements",
+    "synonyms": [
+      "gold assaying requirements",
+      "operational gold loan norms"
+    ]
+  },
+
+  "KFS_Requirements": {
+    "label": "KFS Requirements",
+    "synonyms": [
+      "kfs disclosures",
+      "kfs guidelines"
+    ]
+  },
+
+  "KYC_Process": {
+    "label": "KYC Process",
+    "synonyms": [
+      "kyc procedure",
+      "kyc requirements"
+    ]
+  },
+
+  "AML_Compliance": {
+    "label": "AML / PMLA Compliance",
+    "synonyms": [
+      "anti money laundering obligations"
+    ]
+  },
+
+  "IRACP_Classification": {
+    "label": "IRACP: Classification of Assets",
+    "synonyms": [
+      "asset classification norms",
+      "npa classification rules"
+    ]
+  },
+
+  "IRACP_Provisioning": {
+    "label": "IRACP Provisioning",
+    "synonyms": [
+      "provisioning norms"
+    ]
+  },
+
+  "Model_Governance_Framework": {
+    "label": "Model Governance Framework",
+    "synonyms": [
+      "model risk governance"
+    ]
+  },
+
+  "Model_Governance_Validation": {
+    "label": "Model Validation Requirements",
+    "synonyms": [
+      "model validation",
+      "model monitoring"
+    ]
+  },
+
+  "FAQs_Digital_Lending": {
+    "label": "Digital Lending FAQs",
+    "synonyms": [
+      "digital lending faq"
+    ]
+  },
+
+  "FAQs_KYC": {
+    "label": "KYC FAQs",
+    "synonyms": [
+      "faq on kyc"
+    ]
+  },
+  "Outsourcing_Risk_Governance": {
+    "label": "Outsourcing Risk Governance",
+    "synonyms": [
+      "outsourcing governance framework",
+      "outsourcing risk oversight",
+      "governance in outsourcing"
+    ]
+  },
+  "Outsourcing_Due_Diligence": {
+    "label": "Outsourcing Due Diligence",
+    "synonyms": [
+      "vendor due diligence",
+      "service provider assessment",
+      "outsourcing vendor evaluation"
+    ]
+  },
+  "Outsourcing_Materiality": {
+    "label": "Material Outsourcing Assessment",
+    "synonyms": [
+      "material outsourcing",
+      "outsourcing materiality criteria",
+      "critical outsourcing identification"
+    ]
+  },
+  "Outsourcing_Contractual_Controls": {
+    "label": "Outsourcing Contractual Safeguards",
+    "synonyms": [
+      "outsourcing contracts",
+      "contractual controls outsourcing",
+      "outsourcing agreement requirements"
+    ]
+  },
+  "Outsourcing_Monitoring_Audit": {
+    "label": "Outsourcing Monitoring and Audit",
+    "synonyms": [
+      "outsourcing audit requirements",
+      "monitoring outsourced services",
+      "outsourcing oversight"
+    ]
+  },
+  "Outsourcing_Exit_Strategy": {
+    "label": "Outsourcing Exit and BCP",
+    "synonyms": [
+      "outsourcing exit plan",
+      "business continuity outsourcing",
+      "outsourcing termination"
+    ]
+  },
+  "Outsourcing_Directions_2025": {
+    "label": "Commercial Banks Outsourcing Directions 2025",
+    "synonyms": [
+      "outsourcing directions 2025",
+      "rbi outsourcing guidelines",
+      "managing risks in outsourcing",
+      "commercial bank outsourcing norms"
+    ]
+  }
+
+
+
+
+
+}

@@ -1,0 +1,40 @@
+{
+  "DLG_Eligibility": ["dlg provider", "fldg provider", "eligibility as dlg", "who can provide dlg"],
+  "DLG_Cap": ["dlg cap", "fldg cap", "5% cap", "cap on first loss"],
+  "DLG_Forms": ["forms of dlg", "dlg instruments", "accepted dlg forms"],
+  "DLG_Structure": ["dlg arrangement", "dlg contract", "dlg invocation"],
+  "DLG_Restrictions": ["dlg restrictions", "dlg cannot be used", "nbfc p2p restrictions"],
+  "DLG_Reporting": ["reporting of dlas", "cims reporting", "dlg disclosure"],
+  
+  "Digital_Lending_Core": ["digital lending guidelines", "digital lending directions"],
+  "Digital_Lending_Definitions": ["definitions in digital lending", "dlg defined as"],
+  
+  "ECL_Overview": ["expected credit loss", "ecl framework", "ifrs 9"],
+  "ECL_Stages": ["stage 1", "stage 2", "stage 3", "significant increase in credit risk"],
+  "ECL_Measurement": ["ecl measurement", "probability weighted", "credit loss calculation"],
+  
+  "Gold_Loan_LTV": ["gold loan ltv", "ltv for gold", "gold loan ratio"],
+  "Gold_Loan_Operational": ["gold assaying", "gold valuation", "operational gold loan"],
+  
+  "KFS_Requirements": ["kfs", "key fact statement", "kfs disclosures"],
+  "KYC_Process": ["kyc", "know your customer", "kyc procedure"],
+  "AML_Compliance": ["aml", "anti money laundering", "pmla"],
+  
+  "IRACP_Classification": ["asset classification", "npa classification", "iracp norms"],
+  "IRACP_Provisioning": ["provisioning norms", "iracp provisioning"],
+  
+  "Model_Governance_Framework": ["model governance", "model risk management"],
+  "Model_Governance_Validation": ["model validation", "model monitoring"],
+  
+  "Outsourcing_Risk_Governance": ["outsourcing governance", "outsourcing risk"],
+  "Outsourcing_Due_Diligence": ["outsourcing due diligence", "vendor assessment"],
+  "Outsourcing_Materiality": ["material outsourcing", "outsourcing assessment"],
+  "Outsourcing_Contractual_Controls": ["outsourcing contract", "contractual safeguards"],
+  "Outsourcing_Monitoring_Audit": ["outsourcing monitoring", "outsourcing audit"],
+  "Outsourcing_Exit_Strategy": ["outsourcing exit", "business continuity plan"],
+  "Outsourcing_Regulatory_Oversight": ["regulatory oversight", "rbi outsourcing supervision"],
+  "Outsourcing_Penalties": ["outsourcing penalties", "non-compliance penalties"],
+  
+  "FAQs_Digital_Lending": ["digital lending faq", "digital lending faqs"],
+  "FAQs_KYC": ["kyc faq", "kyc faqs"]
+}
