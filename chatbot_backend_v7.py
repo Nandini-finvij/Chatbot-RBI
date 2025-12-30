@@ -55,7 +55,7 @@ from readability_analyzer import get_readability_analyzer, ReadabilityScore
 # CONFIGURATION
 # ================================================================================
 
-GROQ_API_KEY = os.environ.get("GROQ_API_KEY", "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")
+GROQ_API_KEY = os.environ.get("GROQ_API_KEY", "api")
 LLM_MODEL = os.environ.get("LLM_MODEL", "llama-3.3-70b-versatile")
 EMBED_MODEL = os.environ.get("EMBED_MODEL", "sentence-transformers/all-mpnet-base-v2")
 CANONICAL_TOPICS_PATH = os.environ.get("CANONICAL_TOPICS", "canonical_topics.json")
